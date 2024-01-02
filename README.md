@@ -2,7 +2,7 @@
 
 As GSL12 currently is not able to continue work on V5, I'm trying to continue
 and add my own mods along the way. As I'm doing this in my spare time, don't
-expect frequent changes and additions.
+expect frequent updates and additions.
 
 ### IMPORTANT:
 The files are still in BETA. I have not yet built the Tiny-M
