@@ -1,7 +1,8 @@
 # Tiny-M-V5-beta
 
 As GSL12 currently is not able to continue work on V5, I'm trying to continue
-and add my own mods alont the way.
+and add my own mods along the way. As I'm doing this in my spare time, don't
+expect frequent changes and additions.
 
 IMPORTANT: The files are still in BETA. I have not yet built the Tiny-M
 with the beta files. If you choose to use them, you do it at your own
