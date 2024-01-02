@@ -8,4 +8,6 @@ IMPORTANT: The files are still in BETA. I have not yet built the Tiny-M
 with the beta files. If you choose to use them, you do it at your own
 risk. I will not provide any support!
 
+I have not checked the BOM's either. It is possible that parts are missing.
+
 <img src="Images/T5_last.png" width="700">
