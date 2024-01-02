@@ -1,9 +1,10 @@
 # Tiny-M-V5-beta
 
-### !!!!!!!!!!!!!! August 2023 !!!!!!!!!!!!!!   
-Due to a serious illness, I cannot continues the project.   
-Unfortunately i cannot tell, when i could work again.   
+As GSL12 is not able to continue work on V5, I'm trying to continue
+and add my own mods alont the way.
 
+IMPORTANT: The files are still in BETA. I have not yet built the Tiny-M
+with the beta files. If you choose to use them, you do it at your own
+risk. I will not provide any support!
 
-Beta files for Tiny-M V5   
 <img src="Images/T5_last.png" width="700">
